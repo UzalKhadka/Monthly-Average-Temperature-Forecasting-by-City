@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dataset folder
+/dataset/GlobalLandTemperaturesByCity.csv
+/dataset/GlobalLandTemperaturesByCountry.csv
+/dataset/GlobalLandTemperaturesByMajorCity.csv
+/dataset/GlobalLandTemperaturesByState.csv
+/dataset/GlobalLandTemperatures.csv
